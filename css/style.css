@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Elsie');
+@import url('https://fonts.googleapis.com/css?family=Clicker+Script|Elsie+Swash+Caps');
 
 p {
   font-size: 16px;
@@ -10,13 +10,13 @@ figcaption {
   /*font-size: 0.75em;*/
   /*line-height: 1.5em;*/
   /*font-family: Georgia, "Times New Roman", serif;*/
-  font: normal 0.75em/1.5em 'Elsie', cursive;
+  font: normal 0.75em/1.5em 'Elsie Swash Caps', cursive;
   color: #777;
   text-align: right;
 }
 
 .milk-text {
-  font: bold 2.6em 'Elsie', cursive;
+  font: bold 2.6em 'Elsie Swash Caps', cursive;
   color: white;
   text-shadow: 0 2px 3px #000;
 }
